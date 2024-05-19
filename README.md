@@ -47,7 +47,7 @@ Follow these steps to set up and deploy the Power BI Student Attendance Monitori
 - **Individual Student Tracking:** Search and view attendance records for individual students for detailed monitoring.
 
 ## Demo Video
-[Watch Demo Video](https://www.youtube.com/your-video-link)
+[Watch Demo Video](https://youtu.be/mvg-57ZiJJY)
 
 ## Journal Paper Publication
 This project was published as a journal paper titled "Title of Your Journal Paper" in the International Journal of Research and Development (IJNRD). You can access the paper and citation details [here](https://example.com/your-journal-paper).
